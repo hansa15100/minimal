@@ -1,6 +1,20 @@
-title: Minimal theme
+title: <p align="center"> Hansa Meghwani </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/sajankedia">GitHub</a>
+  
+  <br>   
+  I have worked on Computer Vision, Machine learning & Automotive related problems.
+  Also right now I am working as an Front end developer for Data pre-processing tools.
+  Worked with Continental Automotive for 2 years and currently working with Oracle Cloud Infrastructure.
+  I have around 3 years of experience in corporate.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
